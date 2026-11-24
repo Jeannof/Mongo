@@ -44,3 +44,4 @@ Importa `postman/coleccion-guia7.postman_collection.json` en Postman o Thunder C
 - Validación de `ObjectId`, errores 400/404/409/500 centralizados.
 - `.env` está en `.gitignore`; no subas credenciales al repositorio.
 "# clase9-express-mongodb-sena" 
+"# Mongo" 
