@@ -45,3 +45,4 @@ Importa `postman/coleccion-guia7.postman_collection.json` en Postman o Thunder C
 - `.env` está en `.gitignore`; no subas credenciales al repositorio.
 "# clase9-express-mongodb-sena" 
 "# Mongo" 
+"# Mongo" 
